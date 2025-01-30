@@ -14,7 +14,7 @@ window.configure(bg="steelblue")
 
 # Create label for clock
 label = Label(window, font=("Arial Black", 78, "bold"), bg="steelblue", fg="white")
-label.pack(pady=50)
+label.pack(pady=60)
 
 # Start the clock update loop
 update_time()
