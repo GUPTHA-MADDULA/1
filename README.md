@@ -19,5 +19,3 @@
 - Seen in public spaces such as railway stations, airports, and offices for easy time tracking.
 
 Digital clocks continue to be an essential part of daily life, ensuring accurate
-=======
-<H1> THIS IS MY FIRST LINE OF EXPLANING THE ARCHITECHTURE OF DIGITAL CLOCK </H1>
