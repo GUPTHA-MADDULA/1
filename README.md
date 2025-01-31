@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>  Digital Clock  </h1>
 
 <p1>A digital clock is a modern timekeeping device that displays the time in numeric format rather than using clock hands. These clocks are widely used due to their precision, ease of reading, and additional functionalities.</p1>
@@ -18,3 +19,6 @@
 - Seen in public spaces such as railway stations, airports, and offices for easy time tracking.
 
 Digital clocks continue to be an essential part of daily life, ensuring accurate
+=======
+<H1> THIS IS MY FIRST LINE OF EXPLANING THE ARCHITECHTURE OF DIGITAL CLOCK </H1>
+>>>>>>> 3dc2c9bd30fa7a4650d2fd12cdec4effea636a3f

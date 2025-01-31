@@ -1,4 +1,5 @@
 <h1> This is a Demo Digital Clock </h1>
+<<<<<<< HEAD
 
 A digital clock is a modern timekeeping device that displays the time in numeric format rather than using clock hands. These clocks are widely used due to their precision, ease of reading, and additional functionalities.
 
@@ -18,3 +19,5 @@ Digital clocks rely on quartz crystal oscillators, which vibrate at a stable fre
 - Seen in public spaces such as railway stations, airports, and offices for easy time tracking.
 
 Digital clocks continue to be an essential part of daily life, ensuring accurate
+=======
+>>>>>>> 3dc2c9bd30fa7a4650d2fd12cdec4effea636a3f
